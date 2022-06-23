@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <https://your-solution-url.com>
-- Live Site URL: <https://your-live-site-url.com>
+- Solution URL: <https://www.frontendmentor.io/solutions/the-flexbox-holy-albatross-in-action-la9QSSP3zu>
+- Live Site URL: <https://3-column-preview-card-component-solution-1234.netlify.app/>
 
 ## My process
 
