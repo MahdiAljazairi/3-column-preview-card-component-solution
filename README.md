@@ -40,7 +40,7 @@ I'm pretty glad the Flexbox Holy Albatross technique ever existed.
 
 ### What I learned
 
-CSS is a **programming** language. Hail Heydon!
+CSS is a **programming** language.
 
 ## Tools
 
